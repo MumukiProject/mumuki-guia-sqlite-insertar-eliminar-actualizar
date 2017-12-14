@@ -7,5 +7,4 @@ teacher_info: ''
 language: sqlite
 id_format: "%05d"
 order:
-- 2
 - 1
