@@ -1,4 +1,3 @@
-
 type: final_dataset
 final: SELECT titulo FROM series_peliculas WHERE titulo LIKE "%the%flash%";
   
