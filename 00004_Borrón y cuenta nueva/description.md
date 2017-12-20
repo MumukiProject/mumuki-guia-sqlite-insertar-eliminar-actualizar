@@ -1,0 +1,7 @@
+Veamos cómo quedó la tabla luego del contenido que agregaste. 
+Queremos limpiar todo para volver a empezar. 
+
+Así como existe el `INSERT` para insertar, también está el `DELETE` para borrar. Es importante indicar de _qué tabla_ queremos eliminar filas.
+
+> Borrá todas las filas de la tabla series_peliculas.
+

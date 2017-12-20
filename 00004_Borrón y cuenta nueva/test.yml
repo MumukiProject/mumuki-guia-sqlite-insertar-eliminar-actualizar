@@ -1,0 +1,11 @@
+
+# 3. final_dataset
+- type: final_dataset
+  seed: | # Opcional
+    INSERT INTO table VALUES ('dato 1');
+    INSERT INTO table VALUES ('dato 2');
+  final: SELECT id FROM bolitas;
+  # Supongamos que el ejercicio pide insertar 'dato 3'
+  expected: |
+    id
+    
