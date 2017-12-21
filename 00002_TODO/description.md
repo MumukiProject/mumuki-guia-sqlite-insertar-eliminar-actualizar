@@ -1,4 +1,4 @@
-Ahora que ya vimos cómo agregar contenido, te toca a vos ;)
+Ahora que ya vimos cómo agregar contenido, te toca a vos. :wink:
 
 > Insertá los siguientes datos de esta serie:
 >
