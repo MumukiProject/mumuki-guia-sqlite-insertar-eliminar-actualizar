@@ -7,4 +7,4 @@ En ese caso, simplemente actualizaremos la tabla, fijando los valores deseados e
 UPDATE series_peliculas SET puntaje = 8;
 ```
 
-> ¡Mirá lo que pasa! :open_mouth:
+> ¡Presioná Continuar y mirá lo que pasa! :open_mouth:
