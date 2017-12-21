@@ -2,8 +2,9 @@
 
 En ese caso, simplemente actualizaremos la tabla, fijando los valores deseados en los campos que queramos.
 
+
 ``` sql
 UPDATE series_peliculas SET puntaje = 8;
 ```
 
-¡Mirá lo que pasa! :open_mouth:
+> ¡Mirá lo que pasa! :open_mouth:
