@@ -5,6 +5,8 @@ En ese caso, simplemente actualizaremos la tabla, fijando los valores deseados e
 
 ``` sql
 UPDATE series_peliculas SET puntaje = 8;
-```
+```ム
 
 > ¡Presioná Continuar y mirá lo que pasa! :open_mouth:
+
+AGREGAR TABLA
