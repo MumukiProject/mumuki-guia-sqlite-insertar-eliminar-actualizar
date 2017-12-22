@@ -5,3 +5,4 @@ seed: | # Opcional
 final: SELECT id FROM series_peliculas WHERE puntaje != 8;
 expected: |
   id
+  
