@@ -4,12 +4,11 @@ seed: | # Opcional
   INSERT INTO table VALUES ('dato 2');
 final: SELECT descrip FROM bolitas;
 expected: |
-  descrip
-  
-1|Breaking Bad|5
-2|IT|NULL
-3|The Flash|3
-4|The walking dead|8
-5|Los juegos del hambre|NULL
-6|Stranger Things|2
+  id|titulo|temporadas
+  1|Breaking Bad|5
+  2|IT|NULL
+  3|The Flash|3
+  4|The walking dead|8
+  5|Los juegos del hambre|NULL
+  6|Stranger Things|2
 
