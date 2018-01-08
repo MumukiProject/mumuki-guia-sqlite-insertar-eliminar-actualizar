@@ -1,3 +1,6 @@
 type: final_dataset
 final: SELECT id_contenido FROM series_peliculas;
 expected: |
+
+type: display
+query: select * from series_peliculas;
