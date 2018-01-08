@@ -1,1 +1,2 @@
-s
+type: display
+query: select * from denisse;
