@@ -4,5 +4,32 @@ Muy bien! Nuestra plataform¡a está quedando super completa
 
 > Insertá solo el nombre de la serie: The Flash
 
-MOSTRAR DER
-CONSIDERAR DE EVALUAR EN EL EXPECTED QUE EL RESTO DE LOS CAMPOS SEAN NULL
+<div
+  class='mu-erd'
+  data-entities='{
+    "series_peliculas": {
+      "id_contenido": {
+        "type": "Integer",
+        "pk": true
+      },
+      "titulo": {
+        "type": "Text"
+      },
+      "descripcion": {
+        "type": "Text"
+      },
+      "creador": {
+        "type": "Text"
+      },
+      "principales": {
+        "type": "Text"
+      },
+      "temporadas": {
+        "type": "Integer"
+      },
+      "estreno": {
+        "type": "Integer"
+      }
+    }
+  }'>
+</div>
