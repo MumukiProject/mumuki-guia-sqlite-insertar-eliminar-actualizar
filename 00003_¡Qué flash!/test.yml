@@ -3,4 +3,4 @@ final: SELECT * FROM series_peliculas WHERE titulo LIKE "%the%flash%";
 
 expected: |
   id_contenido|titulo|descripcion|creador|principales|temporadas|estreno
-  1|The Flash|NULL|NULL|NULL|NULL|NULL
+  1|The Flash|||||
