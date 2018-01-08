@@ -29,3 +29,15 @@ OR name LIKE “%internado%”
     [8, "El internado", 7, 7.5]
   ]'>
 </div>
+
+<div
+  class='mu-sql-table'
+  data-name='denisse'
+  data-columns='[{"name": "id_visto", "pk": true}, "titulo_visto", "temporadas"]'
+  data-rows='[
+    [1, "Breaking bad", 5],
+    [2, "IT", null],
+    [3, "The Flash", 3]
+  ]'>
+</div>
+
