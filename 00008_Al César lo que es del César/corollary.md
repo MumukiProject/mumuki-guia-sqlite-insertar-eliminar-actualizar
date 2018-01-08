@@ -1,6 +1,6 @@
 Varias cosas a tener en cuenta:
 
-1. Como no nos interesaba guardarle en la tabla el puntaje del contenido, simplemente no lo hicimos (fijate cómo :wink:)
+1. Como no nos interesaba guardarle en la tabla el puntaje del contenido, simplemente no lo hicimos (fijate cómo :wink:).
 2. Seleccionamos las filas que nos importaban usando distintos métodos:
   * Por el id que identifica unívocamente. 
   * Por el nombre de la serie, de formas que ya te adelantamos:
