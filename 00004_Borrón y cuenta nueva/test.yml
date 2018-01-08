@@ -3,4 +3,4 @@ final: SELECT id_contenido FROM series_peliculas;
 expected: |
 
 type: display
-query: select * from series_peliculas;
+query: select * from lala;
