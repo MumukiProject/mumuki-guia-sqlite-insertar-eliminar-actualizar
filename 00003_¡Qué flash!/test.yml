@@ -1,6 +1,6 @@
 type: final_dataset
 final: SELECT * FROM series_peliculas WHERE titulo LIKE "%the%flash%";
-  
+
 expected: |
-  titulo
-  The Flash
+  id_contenido|titulo|descripcion|creador|principales|temporadas|estreno
+  1|The Flash
