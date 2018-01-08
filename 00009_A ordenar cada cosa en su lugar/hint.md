@@ -1,4 +1,4 @@
-Si no te diste cueneta cómo hacerlo, acá te mostramos cómo agregamos a nuestra base de datos de afiliados todas las personas cuyo nombre empieza con A, ordenados por el número de DNI: 
+Si no te diste cuenta cómo hacerlo, acá te mostramos cómo agregamos a nuestra base de datos de afiliados todas las personas cuyo nombre empieza con A, ordenados por el número de DNI: 
 
 ``` sql
 INSERT INTO afiliados (a_nombre, a_dni, a_direccion)

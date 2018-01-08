@@ -1,8 +1,5 @@
 type: final_dataset
-seed: | # Opcional
-  INSERT INTO table VALUES ('dato 1');
-  INSERT INTO table VALUES ('dato 2');
-final: SELECT descrip FROM bolitas;
+final: SELECT * FROM denisse;
 expected: |
   id|titulo|temporadas
   1|Breaking Bad|5
@@ -11,4 +8,3 @@ expected: |
   4|The walking dead|8
   5|Los juegos del hambre|NULL
   6|Stranger Things|2
-
