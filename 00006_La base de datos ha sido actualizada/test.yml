@@ -1,8 +1,2 @@
-type: final_dataset
-seed: | # Opcional
-  INSERT INTO table VALUES ('dato 1');
-  INSERT INTO table VALUES ('dato 2');
-final: SELECT id FROM series_peliculas WHERE puntaje != 8;
-expected: |
-  id
-  
+type: display
+query: SELECT * FROM series_peliculas;
