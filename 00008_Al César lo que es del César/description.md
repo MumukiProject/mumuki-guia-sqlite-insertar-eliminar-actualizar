@@ -14,4 +14,31 @@ OR name LIKE “%internado%”
 
 > Hacé click en Continuar para ver cómo queda la tabla de Denisse.
 
-MOSTRAR AMBAS TABLAS
+
+<div
+  class='mu-sql-table'
+  data-name='series_peliculas'
+  data-columns='[{"name": "id_contenido", "pk": true}, "titulo", "temporadas", "puntaje"]'
+  data-rows='[
+    [1, "Stranger things", 2, 10], 
+    [2, "The walking dead, 8, 7.9],
+    [3, "Breaking bad", 5, 9.7],
+    [4, "IT", "NULL", 9.3],
+    [5, "Los juegos del hambre, "NULL", 8.9],
+    [6, "Better call Saul", 3, 9.5],
+    [7, "The Flash", 3, 8.0],
+    [8, "El internado", 7, 7.5]
+  ]'>
+</div>
+
+
+<div
+  class='mu-sql-table'
+  data-name='denisse'
+  data-columns='[{"name": "id_visto", "pk": true}, "titulo_visto", "temporadas"]'
+  data-rows='[
+    [1, "Breaking bad", 5],
+    [2, "IT", "NULL"],
+    [3, "The Flash", 3]
+  ]'>
+</div>
