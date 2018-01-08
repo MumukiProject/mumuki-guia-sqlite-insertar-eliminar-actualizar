@@ -7,11 +7,11 @@ En ese caso, simplemente actualizaremos la tabla, fijando los valores deseados e
   data-name='series_peliculas'
   data-columns='[{"name": "id_contenido", "pk": true}, "titulo", "puntuacion"]'
   data-rows='[
-    [1, "Stranger things", 9.7], 
-    [2, "Breaking bad", 7],
-    [3, "IT", 4.9],
-    [4, "Better call Saul", 6],
-    [5, "The Flash", 4.7]
+    [1, "Stranger things", 10], 
+    [2, "Breaking bad", 9.7],
+    [3, "IT", 9.3],
+    [4, "Better call Saul", 9.5],
+    [5, "The Flash", 7.5]
   ]'>
 </div>
 
