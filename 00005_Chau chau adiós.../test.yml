@@ -1,6 +1,6 @@
 type: final_dataset
 final: SELECT id_contenido, titulo, puntuacion FROM series_peliculas;
-  expected: |
+expected: |
   id_contenido|titulo|puntuacion
   1|Stranger things|9.7
   2|Breaking bad|7
