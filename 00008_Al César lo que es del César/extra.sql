@@ -12,7 +12,7 @@ INSERT INTO series_peliculas VALUES
 
 CREATE TABLE denisse (id_visto INTEGER PRIMARY KEY, titulo_visto TEXT, temporadas INTEGER);
 
-INSERT INTO series_peliculas VALUES 
+INSERT INTO denisse VALUES 
 (1, "Breaking bad", 5),
 (2, "IT", null),
 (3, "The Flash", 3);
