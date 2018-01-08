@@ -9,4 +9,4 @@ Varias cosas a tener en cuenta:
     b) Usando LIKE que permite poner una aproximación del nombre sin respetar mayúsculas y minúsculas.
     c) Agregándole al LIKE los porcentajes (%) delante y detrás del nombre, que considere opciones con algo más escrito en esos lugares. 
     ```
-3. En este caso, lo más práctico y menos confuso es usar el id para traer las filas específicas que nos interesan. Obviamente eso dependerá de cada caso particular, y de lo que necesite. 
+3. En este caso, lo más práctico y menos confuso es usar el ID para traer las filas específicas que nos interesan. Obviamente eso dependerá de cada caso particular, y de lo que necesite. 
