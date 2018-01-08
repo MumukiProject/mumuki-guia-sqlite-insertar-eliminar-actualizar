@@ -14,7 +14,6 @@ OR name LIKE “%internado%”
 
 > Hacé click en Continuar para ver cómo queda la tabla de Denisse.
 
-
 <div
   class='mu-sql-table'
   data-name='series_peliculas'
@@ -28,17 +27,5 @@ OR name LIKE “%internado%”
     [6, "Better call Saul", 3, 9.5],
     [7, "The Flash", 3, 8.0],
     [8, "El internado", 7, 7.5]
-  ]'>
-</div>
-
-
-<div
-  class='mu-sql-table'
-  data-name='denisse'
-  data-columns='[{"name": "id_visto", "pk": true}, "titulo_visto", "temporadas"]'
-  data-rows='[
-    [1, "Breaking bad", 5],
-    [2, "IT", "NULL"],
-    [3, "The Flash", 3]
   ]'>
 </div>
