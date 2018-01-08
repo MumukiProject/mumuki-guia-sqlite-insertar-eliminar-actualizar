@@ -2,6 +2,9 @@ type: final_dataset
 seed: | # Opcional
   INSERT INTO table VALUES ('dato 1');
   INSERT INTO table VALUES ('dato 2');
-final: SELECT id FROM series_peliculas where puntaje<5;
+final: SELECT id_contenido, titulo, puntuacion FROM series_peliculas;
   expected: |
-  id
+  id_contenido|titulo|puntuacion
+  1|Stranger things|9.7
+  2|Breaking bad|7
+  4|Better call Saul|6
