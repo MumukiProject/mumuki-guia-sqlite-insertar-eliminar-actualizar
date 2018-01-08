@@ -1,5 +1,5 @@
 type: final_dataset
-final: SELECT titulo FROM series_peliculas WHERE titulo LIKE "%the%flash%";
+final: SELECT * FROM series_peliculas WHERE titulo LIKE "%the%flash%";
   
 expected: |
   titulo
