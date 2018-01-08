@@ -6,10 +6,10 @@ Supongamos que Denisse, fiel clienta de NetFix, estuvo mirando recientemente Los
 INSERT INTO denisse (titulo_visto, temporadas)
 SELECT titulo, temporadas
 FROM series_peliculas 
-WHERE id = 5 
-OR name = “Stranger Things” 
-OR name LIKE “the walking dead” 
-OR name LIKE “%internado%”
+WHERE id_contenido = 5 
+OR titulo = “Stranger Things” 
+OR titulo LIKE “the walking dead” 
+OR titulo LIKE “%internado%”
 ```
 
 > Hacé click en Continuar para ver cómo queda la tabla de Denisse.
