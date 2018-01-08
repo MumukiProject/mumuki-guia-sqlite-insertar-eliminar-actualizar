@@ -5,7 +5,7 @@ Supongamos que Denisse, fiel clienta de NetFix, estuvo mirando recientemente Los
 ``` sql
 INSERT INTO denisse (titulos_vistos, temporadas)
 SELECT titulo, temporadas
- FROM series_peliculas 
+FROM series_peliculas 
 WHERE id = 5 
 OR name = “Stranger Things” 
 OR name LIKE “the walking dead” 
