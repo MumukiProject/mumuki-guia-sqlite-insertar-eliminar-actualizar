@@ -1,7 +1,7 @@
 type: final_dataset
 final: SELECT * FROM denisse;
 expected: |
-  id|titulo|temporadas
+  id_visto|titulo_visto|temporadas
   1|Breaking Bad|5
   2|IT|NULL
   3|The Flash|3
