@@ -1,5 +1,3 @@
-METER TABLA NUEVA
-
 ¡Genial! Acá te mostramos otra forma de hacer lo mismo, aclarando qué columnas queremos llenar con los datos ingresados:
 
 ```sql

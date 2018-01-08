@@ -1,6 +1,16 @@
 Queremos agregar nuevo contenido. Acá te mostramos una forma de hacerlo. 
 
-METER TABLA VIEJA
+
+<div
+  class='mu-sql-table'
+  data-name='series_peliculas'
+  data-columns='[{"name": "id_contenido", "pk": true}, "titulo", "descripcion", "creador", "principales", "temporadas", "estreno"]'
+  data-rows='[
+    [1, "Stranger things", "Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial.", "The Duffer Brothers", "Eleven, Mike, Will, Dustin, Lucas, Hopper, Joyce, Nancy, Jonathan, Steve", 2, 2016], 
+    [2, "Breaking bad", "Un profesor de química de escuela secundaria recurre a la venta de drogas para mantener a su familia.", "Vince Gilligan", "Walter White, Jesse Pinkman, Gus Fring, Saul Goodman, Mike Ehrmantraut, Hank Schrader, Tuco Salamanca, Skyler White", 5, 2008],
+    [3, "IT", "Un grupo de chicos intimidados se unen cuando un monstruo con apariencia de payaso comienza a cazar niños.", "Stephen King", null, 2017]
+  ]'>
+</div>
 
 ```sql
 INSERT INTO series_peliculas 
