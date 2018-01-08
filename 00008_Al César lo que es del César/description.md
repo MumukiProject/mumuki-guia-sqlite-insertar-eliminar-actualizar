@@ -3,7 +3,7 @@ Para mejorar la plataforma queremos hacer un perfil más especial para cada usua
 Supongamos que Denisse, fiel clienta de NetFix, estuvo mirando recientemente Los juegos del hambre, Stranger things, The walking dead y El internado. Desde _nuestra tabla_ de contenidos podríamos cargarle fácilmente toda la información en _su tabla_ de la siguiente manera:
 
 ``` sql
-INSERT INTO denisse (titulos_vistos, temporadas)
+INSERT INTO denisse (titulo_visto, temporadas)
 SELECT titulo, temporadas
 FROM series_peliculas 
 WHERE id = 5 
