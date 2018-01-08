@@ -7,9 +7,9 @@ INSERT INTO denisse (titulo_visto, temporadas)
 SELECT titulo, temporadas
 FROM series_peliculas 
 WHERE id_contenido = 5 
-OR titulo = “Stranger Things” 
-OR titulo LIKE “the walking dead” 
-OR titulo LIKE “%internado%”
+OR titulo = "Stranger Things"
+OR titulo LIKE "the walking dead" 
+OR titulo LIKE "%internado%"
 ```
 
 > Hacé click en Continuar para ver cómo queda la tabla de Denisse.
