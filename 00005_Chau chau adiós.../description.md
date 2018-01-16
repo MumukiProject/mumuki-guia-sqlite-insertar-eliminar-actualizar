@@ -4,7 +4,7 @@
 <div
   class='mu-sql-table'
   data-name='series_peliculas'
-  data-columns='[{"name": "id_contenido", "pk": true}, "titulo", "puntuacion"]'
+  data-columns='[{"name": "id_contenido", "pk": true}, "titulo", "puntaje"]'
   data-rows='[
     [1, "Stranger things", 9.7], 
     [2, "Breaking bad", 7],
