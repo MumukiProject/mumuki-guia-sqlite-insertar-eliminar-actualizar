@@ -1,5 +1,4 @@
-Veamos cómo quedó la tabla luego del contenido que agregaste. 
-Queremos limpiar todo para volver a empezar. 
+Luego del contenido que insertaste, queremos limpiar todo para volver a empezar. 
 
 Así como existe el `INSERT` para insertar, también está el `DELETE` para borrar. Es importante indicar de _qué tabla_ queremos eliminar filas.
 
