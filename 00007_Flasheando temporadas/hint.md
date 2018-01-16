@@ -1,4 +1,4 @@
-Recordá que tenés el `WHERE` para poner una condición que filtre determinadas filas. 
+Recordá que tenés la cláusula `WHERE` para poner una condición que filtre determinadas filas. 
 
 Para seleccionar una fila en particular, tenés el Id que la distingue unívocamente. 
 
