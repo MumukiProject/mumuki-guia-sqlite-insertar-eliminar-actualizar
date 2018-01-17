@@ -5,7 +5,7 @@ En ese caso, simplemente actualizaremos la tabla, fijando los valores deseados e
 <div
   class='mu-sql-table'
   data-name='series_peliculas'
-  data-columns='[{"name": "id_contenido", "pk": true}, "titulo", "puntuacion"]'
+  data-columns='[{"name": "id_contenido", "pk": true}, "titulo", "puntaje"]'
   data-rows='[
     [1, "Stranger things", 10], 
     [2, "Breaking bad", 9.7],
