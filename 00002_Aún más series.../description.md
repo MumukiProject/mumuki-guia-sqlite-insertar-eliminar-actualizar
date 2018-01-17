@@ -29,7 +29,7 @@ Ahora que ya vimos cómo agregar contenido, te toca a vos. :wink:
       "creador": {
         "type": "Text"
       },
-      "principales": {
+      "personajes": {
         "type": "Text"
       },
       "temporadas": {
