@@ -2,7 +2,7 @@
 
 Al igual que antes, nos piden que hagas lo siguiente: 
 
-> Cargá en la tabla de Denisse los siguientes títulos con la cantidad de temporadas que les corresponda: "Stranger things”, “The walking dead” y “Los juegos del hambre”, pero esta vez ordenados por la puntuación general. 
+> Cargá en la tabla de Denisse los siguientes títulos con la cantidad de temporadas que les corresponda: "Stranger things”, “The walking dead” y “Los juegos del hambre”, pero esta vez ordenados por el puntaje. 
 
 Para esto, podés usar al final del `SELECT` la expresión `ORDER BY <cierto_campo>`, que devolverá los resultados de la consulta ordenados por ese campo que le indicamos. 
 
