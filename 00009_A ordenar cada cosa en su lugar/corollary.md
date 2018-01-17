@@ -1,1 +1,2 @@
-La cláusula `ORDER BY <campo>` ordena por defecto de menor a mayor. Se puede agregar luego de eso ASC, que indicará que se ordene de manera ascendente (de menor a mayor), o DESC para que sea descendente (de mayor a menor).  
+La cláusula `ORDER BY <campo>` ordena por defecto de menor a mayor. Se puede agregar luego de eso `ASC`, que indicará que se ordene de manera ascendente (de menor a mayor), o `DESC` para que sea descendente (de mayor a menor).  
+la
