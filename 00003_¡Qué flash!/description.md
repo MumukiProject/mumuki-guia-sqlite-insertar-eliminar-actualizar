@@ -1,4 +1,4 @@
-¡Muy bien! Nuestra plataforma está quedando super completa 
+¡Muy bien! Nuestra plataforma está quedando super completa.
 
 ¿Pero qué pasa si no tenemos toda la información de la serie?
 
@@ -21,7 +21,7 @@
       "creador": {
         "type": "Text"
       },
-      "principales": {
+      "personajes": {
         "type": "Text"
       },
       "temporadas": {
