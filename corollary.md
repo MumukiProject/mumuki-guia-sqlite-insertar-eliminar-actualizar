@@ -1,5 +1,5 @@
 ¡Excelente!Logramos sacar lo mejor del contenido... Y de nosotros también. :blush:
-
+LALAL
 En esta lección aprendimos:
 
 * cómo insertar nuevos datos en la tabla. 
