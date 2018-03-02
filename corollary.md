@@ -1,4 +1,4 @@
-¡Tenemos casi todo listo!
+¡Excelente!Logramos sacar lo mejor del contenido... Y de nosotros también. :blush:
 
 En esta lección aprendimos:
 
@@ -7,7 +7,13 @@ En esta lección aprendimos:
 * que se puede insertar imformación solo en los campos obligatorios, dejando vacíos los nulleables y auto-completándose los que se generan solos como las _PKs_.
 * que se puede eliminar todo lo que queramos, usando las mismas condiciones que poníamos en las consultas. 
 * que podemos actualizar/modificar ciertos campos de registros que nos interesen. 
-* cómo ordenar y limitar la cantidad de resultados a mostrar. 
+* cómo ordenar y limitar la cantidad de resultados a mostrar. Y de yapa, una forma de resolver el "top 5" en otros motores:
+
+ ``` sql
+SELECT TOP 5 * 
+FROM afiliados 
+ORDER BY cuota DESC;
+```
 
 Pero, te dejamos entrever que no existe una única tabla en el mundo, sino que pueden haber varias, y hasta _relacionarse_ entre sí como vos con tus amigos: tienen cosas en común y pueden compartir información.
 
