@@ -1,4 +1,4 @@
-¡Excelente! Logramos sacar lo mejor del contenido... Y de nosotros también. :blush:
+¡Excelente! Logramos sacar lo mejor del contenido... Y también todo tu potencial. :blush:
 
 En esta lección aprendimos:
 
@@ -15,6 +15,6 @@ FROM afiliados
 ORDER BY cuota DESC;
 ```
 
-Pero, te dejamos entrever que no existe una única tabla en el mundo, sino que pueden haber varias, y hasta _relacionarse_ entre sí como vos con tus amigos: tienen cosas en común y pueden compartir información.
+Pero, te dejamos entrever que no existe una única tabla en el mundo, sino que pueden haber varias, y hasta _relacionarse_ entre sí como vos con tus amistades: tienen cosas en común y pueden compartir información.
 
 Veamos en la próxima lección de qué estamos hablando. :grimacing: 
